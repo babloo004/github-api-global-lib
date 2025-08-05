@@ -18,7 +18,7 @@ class Person {
 
   //methods
   void details(){
-    println("Name : ${name}!");
-    println("age : ${age}!");
+    echo ("Name : ${name}!")
+    echo ("age : ${age}!")
   }
 }
