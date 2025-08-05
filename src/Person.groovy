@@ -21,7 +21,7 @@ class Person {
 
   //methods
   void details(){
-    echo ("Name : ${name}!")
-    echo ("age : ${age}!")
+    steps.echo ("Name : ${name}!")
+    steps.echo ("age : ${age}!")
   }
 }
